@@ -21,4 +21,5 @@ app.config['MONGODB_SETTINGS'] = {
 initialize_db(app)
 initialize_routes(api)
 
-app.run(port=3500)
+if __name__ == '__main__':
+    app.run()
