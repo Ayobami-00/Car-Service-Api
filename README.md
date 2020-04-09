@@ -3,7 +3,8 @@
 
 In order to access the service, you need to sign up:
 
-A POST request to the following url https://car-service-api.herokuapp.com/api/auth/signupwith the sample body below:
+A POST request to the following url https://car-service-api.herokuapp.com/api/auth/signup
+with the sample body below:
 
 {
 "email": "email",
