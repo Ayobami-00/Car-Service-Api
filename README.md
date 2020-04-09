@@ -12,7 +12,7 @@ A POST request to the following url https://car-service-api.herokuapp.com/api/au
 
 returns your userId.
 
-In order to get access token, you need to login:
+In order to get your access token, you need to login:
 
   A POST request to the following url https://car-service-api.herokuapp.com/api/auth/login
   with the sample body below:  
